@@ -38,35 +38,35 @@
     "serialNumber": "poiuytreasdfqwertyuiopertyu",
     "model": "Lightweight",
     "weightLimit": "200",
-    "batteryCapacity": "90",
+    "batteryCapacity": "96",
     "state": "RETURNING"
   },
   {
     "serialNumber": "poiuytredxasdfghertyuioiuyt",
     "model": "Lightweight",
     "weightLimit": "200",
-    "batteryCapacity": "90",
+    "batteryCapacity": "87",
     "state": "DELIVERED"
   },
   {
     "serialNumber": "asdghjklpoiuytrewqwerrtyui",
     "model": "Lightweight",
     "weightLimit": "200",
-    "batteryCapacity": "90",
+    "batteryCapacity": "99",
     "state": "IDLE"
   },
   {
     "serialNumber": "asertyusdrtysdrty45678werty",
     "model": "Lightweight",
     "weightLimit": "200",
-    "batteryCapacity": "90",
+    "batteryCapacity": "100",
     "state": "IDLE"
   },
   {
     "serialNumber": "12345qwertyuiowertyuioqwertyu",
     "model": "Lightweight",
     "weightLimit": "200",
-    "batteryCapacity": "90",
+    "batteryCapacity": "85",
     "state": "IDLE"
   }
 ]
