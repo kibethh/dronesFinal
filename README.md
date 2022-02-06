@@ -39,4 +39,4 @@ http://localhost:3000/api/drone/available
 
 http://localhost:3000/api/drone/battery/:droneId
 
-### Battery levels can also be checked from the command line where the server is running, the battery decrease by 90% after every 20 seconds
+### Battery levels can also be checked from the command line where the server is running, the battery decrease by 10% after every 20 seconds
