@@ -1,0 +1,72 @@
+[
+  {
+    "serialNumber": "hhsderyeydgygdygausuwhuwdusdsfgyegfyegdssdg",
+    "model": "Lightweight",
+    "weightLimit": "200",
+    "batteryCapacity": "90",
+    "state": "DELIVERING"
+  },
+  {
+    "serialNumber": "qwertyuioiuytreqwertyuiuytrewqweroiuyt",
+    "model": "Lightweight",
+    "weightLimit": "200",
+    "batteryCapacity": "90",
+    "state": "LOADING"
+  },
+  {
+    "serialNumber": "oiuytresdrtyuioiuytrdfcfyuiuytrdc",
+    "model": "Lightweight",
+    "weightLimit": "200",
+    "batteryCapacity": "90",
+    "state": "IDLE"
+  },
+  {
+    "serialNumber": "awertyuiopnujpoiuytrewswertyuioi",
+    "model": "Lightweight",
+    "weightLimit": "200",
+    "batteryCapacity": "90",
+    "state": "LOADED"
+  },
+  {
+    "serialNumber": "ertyuiopxcvbnmqwertyuiowerty",
+    "model": "Lightweight",
+    "weightLimit": "200",
+    "batteryCapacity": "90",
+    "state": "IDLE"
+  },
+  {
+    "serialNumber": "poiuytreasdfqwertyuiopertyu",
+    "model": "Lightweight",
+    "weightLimit": "200",
+    "batteryCapacity": "90",
+    "state": "RETURNING"
+  },
+  {
+    "serialNumber": "poiuytredxasdfghertyuioiuyt",
+    "model": "Lightweight",
+    "weightLimit": "200",
+    "batteryCapacity": "90",
+    "state": "DELIVERED"
+  },
+  {
+    "serialNumber": "asdghjklpoiuytrewqwerrtyui",
+    "model": "Lightweight",
+    "weightLimit": "200",
+    "batteryCapacity": "90",
+    "state": "IDLE"
+  },
+  {
+    "serialNumber": "asertyusdrtysdrty45678werty",
+    "model": "Lightweight",
+    "weightLimit": "200",
+    "batteryCapacity": "90",
+    "state": "IDLE"
+  },
+  {
+    "serialNumber": "12345qwertyuiowertyuioqwertyu",
+    "model": "Lightweight",
+    "weightLimit": "200",
+    "batteryCapacity": "90",
+    "state": "IDLE"
+  }
+]

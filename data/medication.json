@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Vicodin ",
+    "weight": "200",
+    "code": 200,
+    "image": "image_url"
+  },
+
+  {
+    "name": "Lisinopril ",
+    "weight": 300,
+    "code": "200",
+    "image": "image_url"
+  }
+]
