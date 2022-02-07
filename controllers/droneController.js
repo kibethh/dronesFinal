@@ -50,7 +50,7 @@ const loadDrone = catchAsync(async (req, res) => {
       totalWeight += drone["weight"];
     });
 
-    if (totalWeight > 500) {
+    if (totalWeight + req.body.weight > 500) {
       return res.status(400).json({
         success: false,
         message:

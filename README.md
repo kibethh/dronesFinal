@@ -7,7 +7,7 @@
 To test the project, NODEJS and MONGODB have to be installed in your computer.
 Then run: "npm install" to install the packages I have used.
 
-After all packages have installed, run "npm run seeder" to preload the database with some test data
+After all packages have installed, make sure the MONGODB server is running then run "npm run seeder" to preload the database with some test data
 
 You can then run in development mode by running "npm run dev" command.
 
@@ -17,7 +17,7 @@ You can run also in production mode by first building the project using "npm run
 
 ## Getting all the drones from the database - GET REQUEST
 
-http://localhost:3000/api/drone
+http://localhost:3000/api/drone - This endpoint also initiates the periodic task for decrease the battery levels
 
 ## Registering Creating a New drone - POST REQUEST
 
