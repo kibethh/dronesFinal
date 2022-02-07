@@ -60,7 +60,7 @@ const loadDrone = catchAsync(async (req, res) => {
     console.log(medication);
     const load = await Medication.create(medication);
 
-    res.status(200).json({
+    return res.status(200).json({
       success: true,
       totalWeight,
       load,
