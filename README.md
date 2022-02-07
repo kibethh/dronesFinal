@@ -17,7 +17,7 @@ You can run also in production mode by first building the project using "npm run
 
 ## Getting all the drones from the database - GET REQUEST
 
-http://localhost:3000/api/drone - This endpoint also initiates the periodic task for decrease the battery levels
+http://localhost:3000/api/drone - This endpoint also initiates the periodic task for decreasing the battery levels
 
 ## Registering Creating a New drone - POST REQUEST
 
